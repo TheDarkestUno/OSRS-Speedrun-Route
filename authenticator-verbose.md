@@ -322,7 +322,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Enter the manor.
 - Collect rubber tube from skeleton room.
 - Go to manor top floor.
-- Start and finish ETC.
+- Finish ETC by talking to Professor Oddenstein. [1,2, re-talk]
     - **[Split]**
 - Exit Draynor Manor, grabbing bronze helm on the way out.
 - Run to Falador hugging the south Falador wall.
