@@ -166,7 +166,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - ETC lever puzzle **[BA, D, BA, EF, C, E]**.
 - Complete VS when you run past the staircase.
 - Drop all mage equipment.
-- Finish ETC.
+- Finish ETC. [1,2, re-talk]
     - **[Split]**
 - Exit Draynor Manor, grabbing bronze helm. (Should still have spade on you)
 - Run to Falador.
