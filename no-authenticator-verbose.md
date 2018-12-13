@@ -342,7 +342,7 @@ Pick up the skull from the altar
 - Switch to a PVP world
 - Use the PVP world bank chest
 	- WITHDRAW: Three DS keys, 1 beer, cronicle, all wines
-- Cronicle teleport
+- Chronicle teleport
 - Walk to Varrock Palace
 - Talk to Sir Prysin to get Silverlight
 	- Teleport as soon as the sword appears equipped to you
